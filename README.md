@@ -1,1 +1,1 @@
-This repository contains code from the various sprints of this internship.
+This repository contains code from the various sprints of the Hamoye Data Science internship 2020, data engineering track.
